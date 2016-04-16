@@ -12,6 +12,7 @@ namespace ConApp4Git
         {
             Console.WriteLine("Hello console");
             Console.WriteLine("Hello console2");
+            Console.WriteLine("Hello console3");
 
             Console.Read();
 
