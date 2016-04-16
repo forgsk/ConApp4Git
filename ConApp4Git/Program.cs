@@ -17,6 +17,7 @@ namespace ConApp4Git
             Console.WriteLine("Hello console5");
             Console.WriteLine("Hello console6 modifiedin Git");
             Console.WriteLine("Hello console7 in vs for merge wit git of console8");
+            Console.WriteLine("Hello console8 in Git for merge wit vs of console7.");
 
             Console.Read();
 
